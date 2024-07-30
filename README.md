@@ -1,4 +1,4 @@
-# GameHub Website
+# Game-Hub Website
 
 Welcome to the **GameHub Website** repository! This project contains all the code used to build the GameHub website. The website is developed using a modern tech stack to ensure a dynamic and interactive user experience.
 
