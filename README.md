@@ -1,9 +1,9 @@
 # Game-Hub Website
 
-Welcome to the **GameHub Website** repository! This project contains all the code used to build the GameHub website. The website is developed using a modern tech stack to ensure a dynamic and interactive user experience.
+Welcome to the **Game-Hub Website** repository! This project contains all the code used to build the Game-Hub website. The website is developed using a modern tech stack to ensure a dynamic and interactive user experience.
 
 Future Updates:
- - Pages for all games.
+ - Pages for all games including screenshots, trailers etc. 
  - Infinite scrolling.
 
 ## 🚀 Technologies Used
